@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriram-dhurjati&label=Profile%20views&color=0e75b6&style=flat" alt="sriram-dhurjati" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriram-dhurjati" alt="sriram-dhurjati" /></a> </p>
-
 - 🌱 I’m currently learning **Flask, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sriram-dhurjati?tab=repositories](https://github.com/Sriram-dhurjati?tab=repositories)
