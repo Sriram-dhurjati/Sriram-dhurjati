@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sriram Dhurjati</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/trwMzHIDQlQAAAAj/hack-hacking.gif](https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp)">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriram-dhurjati&label=Profile%20views&color=0e75b6&style=flat" alt="sriram-dhurjati" /> </p>
 
