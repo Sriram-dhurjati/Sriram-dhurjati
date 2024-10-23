@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Sriram Dhurjati</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriram-dhurjati&label=Profile%20views&color=0e75b6&style=flat" alt="sriram-dhurjati" /> </p>
@@ -19,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="sriram-dhurjati-14091b169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sriram-dhurjati-14091b169/" height="30" width="40" /></a>
-<a href="ramdhurjati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ramdhurjati/" height="30" width="40" /></a>
-<a href="sriramdhurjati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sriramdhurjati" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sriram-dhurjati-14091b169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sriram-dhurjati-14091b169/" height="30" width="40" /></a>
+<a href="https://instagram.com/ramdhurjati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramdhurjati" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sriramdhurjati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sriramdhurjati" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
